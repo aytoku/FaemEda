@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Faem Eda</string>
+    <string name="facebook_app_id">729509614577092</string>
+    <string name="fb_login_protocol_scheme">fb729509614577092</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
